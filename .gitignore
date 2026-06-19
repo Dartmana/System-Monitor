@@ -1,0 +1,16 @@
+# Build output
+build/
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Compiled object files (if building manually)
+*.o
+*.a
